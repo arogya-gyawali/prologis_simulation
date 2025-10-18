@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+
+# Secret keys
+firebase-key.json
+*.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system file
+.DS_Store
